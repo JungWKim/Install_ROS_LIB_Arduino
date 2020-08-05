@@ -1,7 +1,9 @@
 # Install_ROS_LIB_Arduino
 install ros_lib library on ROS environment
 
-First of all, you must have installed arduino or arduino-arm on ubuntu
+### Ubuntu : 18.04
+### ROS version : Melodic
 
-1. sudo ./install_arduino.sh
-2. sudo ./install_ros_lib.sh
+### If Arduino is already installed :
+      1. sudo ./install_arduino.sh
+      2. sudo ./install_ros_lib.sh
